@@ -6,6 +6,7 @@ from torch.utils.data import  dataloader
 from transformers import AdamW
 from sklearn.metrics import accuracy_score
 # training test data comes from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+# base bert model form hugging face
 
 def load_disdbert():
     # you can load directly via auto downloading
