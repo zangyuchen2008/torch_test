@@ -5,14 +5,7 @@ import pandas as pd
 from torch.utils.data import  dataloader
 from transformers import AdamW
 from sklearn.metrics import accuracy_score
-
-# config = AutoConfig.from_pretrained('model/distilbert/config.json')
-# model = AutoModel.from_config(config)
-# tokenizer = AutoTokenizer.from_pretrained('/data/yuchen/projects/test/transformers_test/model/distilbert')
-# inputs = tokenizer('hello world',return_tensors='pt')
-# model(**inputs)
-
-
+# training test data comes from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 def load_disdbert():
     # you can load directly via auto downloading
