@@ -8,3 +8,4 @@ This is a place for torch model test
 m4
 m5
 m6
+m7
