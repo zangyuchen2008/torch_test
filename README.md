@@ -9,3 +9,6 @@ This is a place for torch model test
 m1
 d1
 m2
+d1
+d2
+d3
