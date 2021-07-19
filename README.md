@@ -5,19 +5,5 @@ This is a place for torch model test
 * data from https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 * distilled bert model from huggingface pre downloaded model file
 
-dev added 
-hello
-new
-1234 sad
-new added
-new test
-00000
-11111
-1111
-2222
-3333
-4444
-5555
-66666
-77777
-6666
+
+m1
