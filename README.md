@@ -6,3 +6,4 @@ This is a place for torch model test
 * distilled bert model from huggingface pre downloaded model file
 
 d1
+d2
